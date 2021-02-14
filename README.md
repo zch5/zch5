@@ -2,5 +2,5 @@
 - 👀 I’m interested in enviromental economics, the spread of false information through digital means, and all things coding
 - 🏫 I’m currently studying computer science at the University of Pittsburgh
 - 🏗️ I work as a computer science intern in Digital Process Automation at United States Steel in Pittsburgh, PA
-- 📫 You can reach at zach (dot) heistand26 (@) gmail.com
+- 📫 You can reach at zach (dot) heistand26 (at) gmail.com
 - 🌐 Or visit my personal website at [http://pitt.edu/~zch5/](http://pitt.edu/~zch5/)

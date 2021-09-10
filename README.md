@@ -4,3 +4,4 @@
 - 🏗️ I work as a computer science intern in Digital Process Automation at United States Steel in Pittsburgh, PA
 - 📫 You can reach me at zach (dot) heistand26 (at) gmail.com
 - 🌐 Or visit my personal website at [http://pitt.edu/~zch5/](http://pitt.edu/~zch5/)
+- When I'm not coding, you'll probably find me playing soccer ⚽, mountain biking 🚵‍♂️, hiking 🥾, or cooking 👨‍🍳.
